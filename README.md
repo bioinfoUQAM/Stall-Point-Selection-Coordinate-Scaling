@@ -62,12 +62,11 @@ STALL_POINTS_PX = [
 ## Point Order
 
 Click the 4 stall corners in this exact order:
-LT ──────────── RT
-│ │
-│ STALL │
-│ │
-LB ──────────── RB
-
+LT ───── RT
+│         │
+│  STALL  │
+│         │
+LB ───── RB
 
 Exactly **4 points** must be selected the script will raise an error otherwise.
 
